@@ -1,28 +1,28 @@
-**Exercise 1**
+<font color="red">**Exercise 1**</font>
 
-**Exercise 2**
+<font color="red">**Exercise 2**</font>
 
-**Exercise 3**
+<font color="red">**Exercise 3**</font>
 
-**Exercise 4**
+<font color="red">**Exercise 4**</font>
 
-**Exercise 5**
+<font color="red">**Exercise 5**</font>
 
-**Exercise 6**
+<font color="red">**Exercise 6**</font>
 
-**Exercise 7**
+<font color="red">**Exercise 7**</font>
 
-**Exercise 8**
+<font color="red">**Exercise 8**</font>
 
-**Exercise 9**
+<font color="red">**Exercise 9**</font>
 
-**Exercise 10**
+<font color="red">**Exercise 10**</font>
 
-**Exercise 11**
+<font color="red">**Exercise 11**</font>
 
-**Exercise 12**
+<font color="red">**Exercise 12**</font>
 
-**Exercise 13**
+<font color="red">**Exercise 13**</font>
 
-**Exercise 14**
+<font color="red">**Exercise 14**</font>
 
